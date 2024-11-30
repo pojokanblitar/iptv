@@ -233,5 +233,5 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-name="HTB Hokkaido News 24" tvg-logo="https://i.imgur.com/yqUItvM.png" tvg-id="HTBHokkaidoNews24.jp" group-title="Japan",HTB Hokkaido News 24
 https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/Wfu61ZU.png" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/%E6%97%A5%E3%83%86%E3%83%ACNEWS24_%E7%95%AA%E7%B5%84%E3%83%AD%E3%82%B4.jpg" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
