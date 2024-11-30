@@ -226,3 +226,12 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EBS 2" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/EBS_2TV_Logo.svg" tvg-country="KR" tvg-url="" group-title="Entertainment",EBS 2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="Italy",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-name="HTB Hokkaido News 24" tvg-logo="https://i.imgur.com/yqUItvM.png" tvg-id="HTBHokkaidoNews24.jp" group-title="Japan",HTB Hokkaido News 24
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/Wfu61ZU.png" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
