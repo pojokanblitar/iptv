@@ -235,7 +235,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Indonesia",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GKBwOFF.jpg" tvg-country="SK" tvg-url="" group-title="",Raj TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GKBwOFF.jpg" tvg-country="SK" tvg-url="" group-title="Slovakia",Raj TV
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="http://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv.jpg" tvg-country="GR" tvg-url="" group-title="",Reload Play
