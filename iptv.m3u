@@ -269,6 +269,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 
-iotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true" group-title="Korean",K-Plus
+#EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true" group-title="Korean",K-Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
