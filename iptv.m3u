@@ -272,3 +272,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true" group-title="Korean",K-Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+
+#EXTINF:-1 group-title="#0. LIVE EVENT" tvg-logo="https://www.w-sport.com/wp-content/uploads/2022/09/logo2nd.svg",W-Sport
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
